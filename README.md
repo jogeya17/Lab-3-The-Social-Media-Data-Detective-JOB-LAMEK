@@ -1,4 +1,4 @@
-# Lab 2 : Social Media Data Detective
+# Lab 3 : Social Media Data Detective
 
 ## Files Created
 
